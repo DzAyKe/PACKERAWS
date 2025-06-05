@@ -325,7 +325,7 @@ terraform plan
 ```
 
 ```jsx
-terraform apply
+terraform apply -auto-approve
 
 ```
 
