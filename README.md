@@ -14,7 +14,7 @@ nous serons menez à renseigner notre key créer précédemment sur AWS
 ```jsx
 AWS Access Key ID [None]: <ta_clé>
 AWS Secret Access Key [None]: <ta_secret_clé>
-Default region name [None]: eu-west-3        # (ex : Paris)
+Default region name [None]:us-west-2       
 Default output format [None]: json           # (ou table, text)
 ```
 
